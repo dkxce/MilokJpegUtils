@@ -1,0 +1,16 @@
+C:\PROJECTS\CSharp_Navicom\CryptoJPEG\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJECTS\CSharp_Navicom\CryptoJPEG\obj\Debug\CryptoJPEG.Properties.Resources.resources
+C:\PROJECTS\CSharp_Navicom\CryptoJPEG\obj\Debug\CryptoJPEG.csproj.GenerateResource.Cache
+C:\PROJECTS\CSharp_Navicom\CryptoJPEG\bin\Debug\CryptoJPEG.exe
+C:\PROJECTS\CSharp_Navicom\CryptoJPEG\bin\Debug\CryptoJPEG.pdb
+C:\PROJECTS\CSharp_Navicom\CryptoJPEG\obj\Debug\CryptoJPEG.exe
+C:\PROJECTS\CSharp_Navicom\CryptoJPEG\obj\Debug\CryptoJPEG.pdb
+C:\PROJECTS\CSharp_Navicom\CryptoJPEG\obj\Debug\CryptoJPEG.Form1.resources
+C:\Downloads\CD-REC\CryptoJPEG[sources]\obj\Debug\CryptoJPEG.exe
+C:\Downloads\CD-REC\CryptoJPEG[sources]\obj\Debug\CryptoJPEG.pdb
+C:\Downloads\CD-REC\CryptoJPEG[sources]\bin\Debug\CryptoJPEG.exe
+C:\Downloads\CD-REC\CryptoJPEG[sources]\bin\Debug\CryptoJPEG.pdb
+C:\Downloads\CD-REC\CryptoJPEG[sources]\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\CryptoJPEG[sources]\obj\Debug\CryptoJPEG.Form1.resources
+C:\Downloads\CD-REC\CryptoJPEG[sources]\obj\Debug\CryptoJPEG.Properties.Resources.resources
+C:\Downloads\CD-REC\CryptoJPEG[sources]\obj\Debug\CryptoJPEG.csproj.GenerateResource.Cache
