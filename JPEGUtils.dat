@@ -1,0 +1,43 @@
+[PARAMETERS]
+PARAM:DEFFILTER:(.jpg$)|(.jpeg$)|(.enx$)|(.mp4$)
+PARAM:DEFOP:NO
+PARAM:JPEGFILE:IMAGE.JPGX
+PARAM:KEYWORD:MG8zN1JmVIFPfVR/fj1FiHJCRnd/jXl8UA==
+PARAM:SUBFOLDERS:Yes
+[REWRITE_EXIF]
+RW:Make:Milok Zbrozek
+RW:Model:milokz@gmail.com
+RW:ImageDescription:Turkey, Kemer, August 2019
+RW:Software:JPEG Utils by Milok Zbrozek
+RW:Artist:Photographer: Milok Zbrozek
+RW:Copyright:Copyrights (c) 2019 Milok Zbrozek
+RW:UserComment:Turkey, Kemer, August 2019
+RW:MakerNote:Turkey, Kemer, August 2019
+RW:DateTime:{DateTime}
+RW:DateTimeOriginal:{DateTimeOriginal}
+RW:DateTimeDigitized:{DateTimeDigitized}
+RW:OwnerName:Milok Zbrozek
+[BATCH]
+BX:START:0
+BX:SKVOZ:Yes
+BX:RENAME:No
+BX:RNPATTERN:{FileNumber:0000} {Make} {FileModifiedDateTime:yyMMdd}
+BX:RWEXIF:Yes
+BX:RESIZE:No
+BX:WIDTH:1000
+BX:HEIGHT:1000
+BX:QUALITY:75
+BX:SAVETOSUB:Source
+BX:SAVEPATH:Processed
+BX:CASE:Lower Extention
+BX:TXTWMADD:No
+BX:TXTWMTEXT:Copyrights © 2019 Milok Zbrozek
+BX:TXTWMOP:75
+BX:TXTWMPOS:4 - Bottom Right
+BX:TXTWMFONT:PT Sans Caption
+BX:TXTWMSIZE:16px
+BX:TXTWMCOLOR:#FF0000
+BX:IMGWMADD:No
+BX:IMGWMFILE:WATERMARK.png
+BX:IMGWMOP:45
+BX:IMGWMPOS:6 - Bottom Left
